@@ -1,0 +1,8 @@
+{
+  "name": "Striker DPS",
+  "category": "DPS",
+  "weapons": ["FAMAS", "Scorpio"],
+  "gear_sets": ["Striker"],
+  "specialization": "Gunner",
+  "notes": "High RPM DPS build for heroic and legendary"
+}
